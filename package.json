@@ -6,8 +6,8 @@
   "author": "Tate-Young <smd_tate@163.com>",
   "license": "MIT",
   "scripts": {
-    "post-commit": "echo im snow",
-    "pre-commit": "echo im tate"
+    "postcommit": "echo im snow",
+    "precommit": "echo im tate"
   },
   "dependencies": {},
   "devDependencies": {
