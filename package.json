@@ -1,0 +1,11 @@
+{
+  "name": "s",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Tate-Young/Git-Test.git",
+  "author": "Tate-Young <smd_tate@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "precommit": "echo i'm tate"
+  }
+}
