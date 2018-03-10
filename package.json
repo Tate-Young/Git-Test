@@ -6,7 +6,8 @@
   "author": "Tate-Young <smd_tate@163.com>",
   "license": "MIT",
   "scripts": {
-    "precommit": "echo i'm tate"
+    "precommit": "echo im tate",
+    "postcommit": "echo im snow"
   },
   "dependencies": {
     "husky": "^0.15.0-rc.8"
