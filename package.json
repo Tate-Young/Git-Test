@@ -5,11 +5,14 @@
   "repository": "https://github.com/Tate-Young/Git-Test.git",
   "author": "Tate-Young <smd_tate@163.com>",
   "license": "MIT",
-  "scripts": {
-    "postcommit": "echo im snow",
-    "precommit": "echo im tate"
-  },
   "dependencies": {},
+
+  "husky": {
+    "hooks": {
+      "post-commit": "echo im snow",
+      "pre-commit": "echo im tate"
+    }
+  },
   "devDependencies": {
     "husky": "^0.14.3"
   }
