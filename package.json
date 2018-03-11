@@ -13,6 +13,7 @@
     }
   },
   "devDependencies": {
-    "husky": "^0.15.0-rc.8"
+    "husky": "^0.15.0-rc.8",
+    "run-node": "^0.2.0"
   }
 }
